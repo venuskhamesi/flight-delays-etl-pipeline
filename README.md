@@ -68,5 +68,5 @@ This ETL project successfully demonstrates a complete data pipeline using Python
 ---
 
 ## 💼 Author  
-**Venus (GitHub: [venuskhamesi])**  
+**Venus Khamesi (GitHub: [venuskhamesi])**  
 Aspiring Data Analyst & Business Analyst | Python • SQL • ETL • MySQL  
