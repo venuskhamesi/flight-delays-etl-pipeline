@@ -58,4 +58,23 @@ Key features include:
 ---
 
  🗂️ Project Files
+- flight_delay_ETL.ipynb # Full Jupyter Notebook with ETL process
+- Flight_delays_SQL.sql # SQL schema or data validation queries
+- ERD Flight_data.mwb # Entity Relationship Diagram (MySQL Workbench)
+- README.md # Project overview (this file)
+  
+---
+
+📌 Outcome
+
+This project demonstrates how to build a full data pipeline—from raw files to a structured SQL database. It’s a strong showcase of **ETL skills**, practical use of **Python for data engineering**, and the ability to prepare datasets for business intelligence or predictive tasks.
+
+---
+
+👤 Author
+
+Venus Khamesi 
+Aspiring Data Analyst & Business Analyst | Python • SQL • ETL • MySQL  
+🔗 **LinkedIn**: [linkedin.com/in/venuskhamesi](https://www.linkedin.com/in/venuskhamesi)  
+
 
